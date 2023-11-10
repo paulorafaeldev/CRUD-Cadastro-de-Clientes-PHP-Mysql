@@ -6,3 +6,6 @@ Este é um repositório que contém um sistema CRUD (Create, Read, Update, Delet
 -  Visualização de Clientes: Visualize a lista de clientes cadastrados com opções de busca e ordenação.
 -  Atualização de Informações: Atualize as informações de clientes já existentes.
 -  Remoção de Clientes: Exclua registros de clientes quando necessário.
+
+## Contato
+Em caso de dúvidas ou sugestões, entre em contato através do email: paulo.rafael.jobs@gmail.com
