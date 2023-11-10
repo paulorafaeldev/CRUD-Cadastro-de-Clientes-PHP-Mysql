@@ -26,5 +26,23 @@ Raiz do Projeto:
 └── index.php
 ```
 
+### Código SQL da tabela Cadastro:
+```sql
+CREATE TABLE `cadastro`(
+    `id`INT NOT NULL AUTO_INCREMENT,
+    `nome`VARCHAR(50) NOT NULL,
+    `filiacao`VARCHAR(50) NOT NULL,
+    `cpf`VARCHAR(50) NOT NULL,
+    `nascimento`VARCHAR(50) NOT NULL,
+    `endereco`VARCHAR(50) NOT NULL,
+    `bairro`VARCHAR(50) NOT NULL,
+    `cep`VARCHAR(50) NOT NULL,
+    `municipio`VARCHAR(50) NOT NULL,
+    `email`VARCHAR(50) NOT NULL,
+    `tel`VARCHAR(50) NOT NULL,
+    PRIMARY KEY (`id`)
+) ENGINE = InnoDB;
+```
+
 ## Contato
 Em caso de dúvidas ou sugestões, entre em contato através do email: paulo.rafael.jobs@gmail.com
