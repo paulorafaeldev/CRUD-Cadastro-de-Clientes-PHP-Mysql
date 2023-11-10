@@ -17,7 +17,6 @@ Raiz do Projeto:
 |          |
 |          ├── App.php
 |          └── Conexao.php
-|                  └── Arquivo que faz conexão com o Banco de Dados
 |
 ├── Includes/
 |    └── Header.php
