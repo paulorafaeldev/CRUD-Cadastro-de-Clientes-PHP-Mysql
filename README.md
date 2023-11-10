@@ -1,4 +1,3 @@
-# CRUD-Cadastro-de-Clientes-PHP-Mysql
 # CRUD de Cadastro de Clientes em PHP e MySQL
 Este é um repositório que contém um sistema CRUD (Create, Read, Update, Delete) simples para o cadastro de clientes, implementado em PHP e utilizando um banco de dados MySQL.
 
